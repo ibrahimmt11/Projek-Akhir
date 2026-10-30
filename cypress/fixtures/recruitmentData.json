@@ -1,0 +1,14 @@
+{
+  "candidate": {
+    "firstName": "Maul",
+    "middleName": "Sidiq",
+    "lastName": "Putra",
+    "email": "maul@example.com",
+    "invalidEmail": "maulsidiq"
+  },
+  "vacancyFilter": "Junior Account Assistant",
+  "message": {
+    "required": "Required",
+    "invalidEmail": "Expected format: admin@example.com"
+  }
+}

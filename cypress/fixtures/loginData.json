@@ -1,0 +1,9 @@
+{
+  "valid": { "username": "Admin", "password": "admin123" },
+  "wrongPassword": { "username": "Admin", "password": "admin" },
+  "unknownUser": { "username": "User", "password": "admin123" },
+  "message": {
+    "required": "Required",
+    "invalid": "Invalid credentials"
+  }
+}
